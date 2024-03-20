@@ -15,20 +15,22 @@ Este proyecto es un sistema integral de ventas desarrollado en Java. Proporciona
 ## Capturas de Pantalla
 
 Aquí se muestran algunas capturas de pantalla del sistema:
-![Pantalla de Login](/src/main/resources/img/screenshot.png)
+
+
 *Captura de pantalla 1: Pantalla de Login*
+![Pantalla de Login](/src/main/resources/img/screenshot.png)
 
-![Header](/src/main/resources/img/screenshot1.png)
 *Captura de pantalla 2: Header*
+![Header](/src/main/resources/img/screenshot1.png)
 
-![InternalFrames](/src/main/resources/img/screenshot2.png)
 *Captura de pantalla 3: InternalFrames*
+![InternalFrames](/src/main/resources/img/screenshot2.png)
 
-![Generator PDFs report](/src/main/resources/img/screenshot3.png)
 *Captura de pantalla 4: Generator PDFs report*
+![Generator PDFs report](/src/main/resources/img/screenshot3.png)
 
-![Historial](/src/main/resources/img/screenshot4.png)
 *Captura de pantalla 5: Historial*
+![Historial](/src/main/resources/img/screenshot4.png)
 
 ## Instalación
 
@@ -49,8 +51,5 @@ Si deseas contribuir a este proyecto, ¡siéntete libre de hacerlo! Puedes abrir
 
 ## Créditos
 
-Este proyecto fue desarrollado por [Tu Nombre].
+Este proyecto fue desarrollado por gonzaSala.
 
-## Licencia
-
-Este proyecto está bajo la Licencia [Nombre de la Licencia]. Consulta el archivo LICENSE.md para obtener más detalles.
