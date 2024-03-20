@@ -15,7 +15,7 @@ Este proyecto es un sistema integral de ventas desarrollado en Java. Proporciona
 ## Capturas de Pantalla
 
 Aquí se muestran algunas capturas de pantalla del sistema:
-![Pantalla de Login](/src/main/resources/img/screenshot0.png)
+![Pantalla de Login](/src/main/resources/img/screenshot.png)
 *Captura de pantalla 1: Pantalla de Login*
 
 ![Header](/src/main/resources/img/screenshot1.png)
