@@ -15,24 +15,20 @@ Este proyecto es un sistema integral de ventas desarrollado en Java. Proporciona
 ## Capturas de Pantalla
 
 Aquí se muestran algunas capturas de pantalla del sistema:
+![Pantalla de Login](img/screenshot1.png)
+*Captura de pantalla 1: Pantalla de Login*
 
-![Captura de pantalla 1](C:\Users\Gonzalo\Documents\NetBeansProjects\SistemaVentas1\src\main\java\img\screenshot.png)
-*Pantalla de Login*
+![Header](img/screenshot2.png)
+*Captura de pantalla 2: Header*
 
-![Captura de pantalla 2]
-(C:\Users\Gonzalo\Documents\NetBeansProjects\SistemaVentas1\src\main\java\img\screenshot1.png)
-*Header*
+![InternalFrames](img/screenshot3.png)
+*Captura de pantalla 3: InternalFrames*
 
-![Captura de pantalla 3](C:\Users\Gonzalo\Documents\NetBeansProjects\SistemaVentas1\src\main\java\img\screenshot2.png)
-*InternalFrames*
+![Generator PDFs report](img/screenshot4.png)
+*Captura de pantalla 4: Generator PDFs report*
 
-![Captura de pantalla 4]
-(C:\Users\Gonzalo\Documents\NetBeansProjects\SistemaVentas1\src\main\java\img\screenshot3.png)
-*Generator PDFs report*
-
-![Captura de pantalla 5]
-(C:\Users\Gonzalo\Documents\NetBeansProjects\SistemaVentas1\src\main\java\img\screenshot4.png)
-*Historial*
+![Historial](img/screenshot5.png)
+*Captura de pantalla 5: Historial*
 
 ## Instalación
 
